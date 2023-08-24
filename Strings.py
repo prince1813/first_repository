@@ -1,3 +1,6 @@
+# 1.String:-
+#SLICING
+
 #positive indexing and slicing
 a="prince"
 print(a[3:6])
